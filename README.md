@@ -174,19 +174,6 @@ Create a .env.local file for environment-specific configurations:
 NEXT_PUBLIC_API_URL=http://localhost:3001/api
 DATABASE_URL=your_database_connection_string
 
-Contributing
-
-    Fork the repository
-    Create a feature branch (git checkout -b feature/amazing-feature)
-    Commit your changes (git commit -m 'Add some amazing feature')
-    Push to the branch (git push origin feature/amazing-feature)
-    Open a Pull Request
-
-License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
-Support
-
 If you encounter any issues or have questions, please:
 
     Check the existing issues in the repository

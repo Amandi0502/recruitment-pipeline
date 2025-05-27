@@ -44,7 +44,7 @@ Using pnpm:
 
 pnpm install
 
-3. Run the Development Server
+3.Run the Development Server
 
 npm run dev
 # or

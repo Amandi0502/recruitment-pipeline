@@ -55,33 +55,6 @@ pnpm dev
 4. Open the Application
 
 Navigate to http://localhost:3000 in your browser to see the application.
-Project Structure
-
-recruitment-pipeline/
-├── app/
-│   ├── globals.css
-│   ├── layout.tsx
-│   └── page.tsx
-├── components/
-│   ├── candidate-card.tsx
-│   ├── candidate-card.module.css
-│   ├── filter-bar.tsx
-│   ├── filter-bar.module.css
-│   ├── header.tsx
-│   ├── header.module.css
-│   ├── job-header.tsx
-│   ├── job-header.module.css
-│   ├── kanban-board.tsx
-│   ├── kanban-board.module.css
-│   ├── kanban-column.tsx
-│   ├── kanban-column.module.css
-│   ├── recruitment-pipeline.tsx
-│   └── recruitment-pipeline.module.css
-├── data/
-│   └── candidates.ts
-├── public/
-│   └── images/
-└── README.md
 
 Available Scripts
 

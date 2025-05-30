@@ -152,3 +152,6 @@ If you encounter any issues or have questions, please:
     Check the existing issues in the repository
     Create a new issue with detailed information
     Contact me.
+
+![UI](https://github.com/user-attachments/assets/79971489-720e-46c0-994b-33b8e302aaca)
+
